@@ -1,6 +1,6 @@
 ---
 name: xy
-runner_type: "run-python"
+runner_type: "python-script"
 description: Change bulb color based on CIE color space values
 enabled: true
 entry_point: "xy.py"

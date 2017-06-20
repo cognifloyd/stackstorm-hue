@@ -1,6 +1,6 @@
 ---
 name: set_state
-runner_type: "run-python"
+runner_type: "python-script"
 description: Send manual state to bulb
 enabled: true
 entry_point: "set_state.py"

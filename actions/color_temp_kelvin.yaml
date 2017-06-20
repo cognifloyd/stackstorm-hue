@@ -1,6 +1,6 @@
 ---
 name: color_temp_kelvin
-runner_type: "run-python"
+runner_type: "python-script"
 description: Change the bulb color temperature to a specific temperature in Kelvin
 enabled: true
 entry_point: "color_temp_kelvin.py"

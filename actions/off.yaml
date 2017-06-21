@@ -1,6 +1,6 @@
 ---
 name: "off"
-runner_type: "run-python"
+runner_type: "python-script"
 description: Turn off a bulb
 enabled: true
 entry_point: "off.py"

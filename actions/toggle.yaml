@@ -1,6 +1,6 @@
 ---
 name: toggle
-runner_type: "run-python"
+runner_type: "python-script"
 description: Toggle on/off state of a bulb
 enabled: true
 entry_point: "toggle.py"

@@ -1,6 +1,6 @@
 ---
 name: color_temp_mired
-runner_type: "run-python"
+runner_type: "python-script"
 description: Change the bulb color temperature to a specific temperature in mired scale
 enabled: true
 entry_point: "color_temp_mired.py"

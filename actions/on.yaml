@@ -1,6 +1,6 @@
 ---
 name: "on"
-runner_type: "run-python"
+runner_type: "python-script"
 description: Turn on a bulb
 enabled: true
 entry_point: "on.py"

@@ -1,6 +1,6 @@
 ---
 name: brightness
-runner_type: "run-python"
+runner_type: "python-script"
 description: Change the brightness of a bulb
 enabled: true
 entry_point: 'brightness.py'

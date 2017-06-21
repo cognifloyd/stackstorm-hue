@@ -1,6 +1,6 @@
 ---
 name: rgb
-runner_type: "run-python"
+runner_type: "python-script"
 description: Change bulb color based on RGB Values
 enabled: true
 entry_point: "rgb.py"
